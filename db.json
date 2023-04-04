@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Mrs. Dennis Schulist",
+      "email": "KarleDach@gmail.com",
+      "address": "delhi",
+      "phone": "14779399999999999999",
+      "organization": "Lake Elsinore",
+      "designation": "front end developer",
+      "id": "ert123",
+      "status": true
+    },
+    {
+      "name": "helohhhindia",
+      "email": "helloindia@gmail.com",
+      "address": "delhi",
+      "phone": "5556666666",
+      "organization": "Alexyshaven",
+      "designation": "Angular developer",
+      "id": "UDSQTB1",
+      "status": true
+    },
+    {
+      "name": "nancy gujral",
+      "email": "nancy12@gmail.com",
+      "address": "Kentucy giakey",
+      "organization": "Kentucky giakey organization",
+      "designation": "react developer",
+      "phone": "24578896666",
+      "id": "A0X9H1",
+      "status": true
+    },
+    {
+      "name": "heloworld",
+      "email": "helo34@gmail.com",
+      "address": "earth",
+      "organization": "earth",
+      "designation": "developer",
+      "phone": "7896666",
+      "status": false,
+      "id": "DE1BB1"
+    },
+    {
+      "name": "nancy thakur",
+      "email": "nancy45@gmail.com",
+      "address": "dydy, 53street",
+      "organization": "drdo street",
+      "designation": "analyst",
+      "phone": "7894561000066",
+      "status": true,
+      "id": "QK6RG1"
+    }
+  ]
+}
