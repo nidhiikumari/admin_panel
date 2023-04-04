@@ -1,3 +1,5 @@
+----------PROJECT SETUP -----------------
+
 1.Open your terminal and navigate to your project directory. Run the following command to install all the required dependencies
    "npm install"
 
